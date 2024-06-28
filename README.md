@@ -1,5 +1,5 @@
-# Ticketing Website Of Band Music
-👋 Welcome to our band ticket sales web 👋
+# Demo Shopee Website
+👋 Welcome to our Shopee website 👋
 ## Table of Contents
 - [Description](#description)
 - [Preview Screenshot](#preview-screenshot)
