@@ -7,7 +7,7 @@
 ## Description
 - This is a web platform that simulates selling tickets for a band's tour. It can be used to book tickets to the locations where the band is touring.
 ## Preview Screenshot
-
+Coming soon
 ## Technology
 -HTML,CSS,JavaScript.
 
